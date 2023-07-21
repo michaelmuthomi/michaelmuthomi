@@ -26,4 +26,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmuthomi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmuthomi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=michaelmuthomi&style=flat-square)
