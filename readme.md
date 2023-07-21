@@ -1,9 +1,9 @@
-<h1 align="center">
-  Hey There
+<h1>
+  Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
- 👋 I’m @michaelmuthomi
+I’m Michael Muthomi a web Developer and Tech Enthisiast
 - 👀 I’m interested in Web Development, Software Engineering, and UI-UX Design
 - 🌱 I’m currently learning React.js & Three.js
 - 💞️ I’m looking to collaborate on Interactive Web Designs
@@ -11,6 +11,7 @@
 <h1></h1>
 
 ### Languages:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40" border="2px white"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
