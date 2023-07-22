@@ -36,4 +36,5 @@ I’m Michael Muthomi a web Developer and Tech Enthisiast
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmuthomi&layout=compact&theme=dark&background=000000)
 <h1></h1>
 
-![](https://komarev.com/ghpvc/?username=michaelmuthomi&style=flat-square)
+
+![](https://komarev.com/ghpvc/?username=michaelmuthomi&style=for-the-badge)
