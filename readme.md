@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I’m Michael Muthomi a web Developer and Tech Enthisiast
+I’m Michael Muthomi, a web Developer and Tech enthusiast.
 - 👀 I’m interested in Web Development, Software Engineering, and UI-UX Design
 - 🌱 I’m currently learning React.js & Three.js
 - 💞️ I’m looking to collaborate on Interactive Web Designs
@@ -30,7 +30,7 @@ I’m Michael Muthomi a web Developer and Tech Enthisiast
 
 <h1></h1>
 
-### My Stats :
+### My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michaelmuthomi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmuthomi&layout=compact&theme=dark&background=000000)
