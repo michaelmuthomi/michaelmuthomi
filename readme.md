@@ -13,5 +13,5 @@ I believe in writing clean, efficient code and building applications that make a
 <h1></h1>
 
 ### Get In Touch
-[Email](mailto:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/michaelgikunda/) | [Resume](https://drive.google.com/file/d/1OcekNyYKyWeYITZxZxjzAblc7-oK2OZw/view?usp=sharing)
+[Email](mailto:michaelmgikunda@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelgikunda/) | [Resume](https://drive.google.com/file/d/1OcekNyYKyWeYITZxZxjzAblc7-oK2OZw/view?usp=sharing)
 |--- |--- |---
