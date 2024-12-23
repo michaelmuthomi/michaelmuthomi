@@ -15,3 +15,8 @@ I believe in writing clean, efficient code and building applications that make a
 ### Get In Touch
 [Email](mailto:michaelmgikunda@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelgikunda/) | [Resume](https://drive.google.com/file/d/1OkRpnlSOW8B-uqV_EK5A8rmYeQwL3Fne/view?usp=drive_link)
 |--- |--- |---
+
+<h1></h1>
+
+### Musical Inspiration
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uib4agyhzmtdmzifc4hil73pdi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uib4agyhzmtdmzifc4hil73pdi&redirect=true)
