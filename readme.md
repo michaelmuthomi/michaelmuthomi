@@ -13,7 +13,7 @@ I believe in writing clean, efficient code and building applications that make a
 <h1></h1>
 
 ### Get In Touch
-[Email](mailto:michaelmgikunda@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelgikunda/) | [Resume](https://drive.google.com/file/d/1OkRpnlSOW8B-uqV_EK5A8rmYeQwL3Fne/view?usp=drive_link)
+[Email](mailto:michaelmgikunda@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelgikunda/) | [Resume](https://drive.google.com/file/d/1kWX4UCwgWtb0jHIKjzwRPsastIYPZPVN/view?usp=sharing)
 |--- |--- |---
 
 <h1></h1>
