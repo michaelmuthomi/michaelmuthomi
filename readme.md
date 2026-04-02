@@ -19,4 +19,4 @@ I believe in writing clean, efficient code and building applications that make a
 <h1></h1>
 
 ### Musical Inspiration
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uib4agyhzmtdmzifc4hil73pdi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uib4agyhzmtdmzifc4hil73pdi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gqfwtvuwu2sjjpdao42m2t2jc4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31gqfwtvuwu2sjjpdao42m2t2jc4&redirect=true)
